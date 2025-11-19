@@ -41,13 +41,6 @@ ai
 对话式AI
 conversational ai
 
-自动驾驶
-
-机器人
-
-芯片
-光刻机
-
 科技
 
 中国
@@ -55,4 +48,5 @@ conversational ai
 日本
 韩国
 
-新质生产力
+云服务
+cloud service
