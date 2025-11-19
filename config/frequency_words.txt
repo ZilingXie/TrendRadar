@@ -4,28 +4,11 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
 大疆
 DJI
 
 宇树
 王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-字节
-bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -51,11 +34,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -67,23 +45,14 @@ conversational ai
 
 机器人
 
-国产
-中国
-
-美国
-日本
-韩国
-
 芯片
 光刻机
 
 科技
 
-新质生产力
+中国
+美国
+日本
+韩国
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+新质生产力
